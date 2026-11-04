@@ -1,0 +1,12 @@
+[submodule "Module/NFSU2Recomp"]
+	path = Module/NFSU2Recomp
+	url = ssh://git@github.com/TalhaMudo/NFSU2Recomp.git
+[submodule "Module/N64Recomp"]
+	path = Module/N64Recomp
+	url = ssh://git@github.com/N64Recomp/N64Recomp.git
+[submodule "Module/XenonRecomp"]
+	path = Module/XenonRecomp
+	url = ssh://git@github.com/hedge-dev/XenonRecomp.git
+[submodule "Module/nfsu2-web"]
+	path = Module/nfsu2-web
+	url = ssh://git@github.com/th0mk/nfsu2-web.git
