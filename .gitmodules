@@ -1,7 +1,7 @@
-# [submodule "NFSU2"]
-# path = NFSU2
-# url = ssh://git@github.com/TimeLine-DELO/NFSU2-Example.git
-# ignore = all
+[submodule "NFSU2"]
+path = NFSU2
+url = ssh://git@github.com/TimeLine-DELO/NFSU2-Example.git
+ignore = all
 
 [submodule "Module/NFSU2Recomp"]
 path = Module/NFSU2Recomp
@@ -22,6 +22,3 @@ ignore = all
 path = Module/nfsu2-web
 url = ssh://git@github.com/th0mk/nfsu2-web.git
 ignore = all
-[submodule "NFSU2"]
-	path = NFSU2
-	url = ssh://git@github.com/TimeLine-DELO/NFSU2-Example.git
