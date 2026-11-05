@@ -3,22 +3,22 @@ path = NFSU2
 url = ssh://git@github.com/TimeLine-DELO/NFSU2-Example.git
 ignore = all
 
-[submodule "Module/NFSU2Recomp"]
-path = Module/NFSU2Recomp
+[submodule "Stem/NFSU2Recomp"]
+path = Stem/NFSU2Recomp
 url = ssh://git@github.com/TalhaMudo/NFSU2Recomp.git
 ignore = all
 
-[submodule "Module/N64Recomp"]
-path = Module/N64Recomp
+[submodule "Stem/N64Recomp"]
+path = Stem/N64Recomp
 url = ssh://git@github.com/N64Recomp/N64Recomp.git
 ignore = all
 
-[submodule "Module/XenonRecomp"]
-path = Module/XenonRecomp
+[submodule "Stem/XenonRecomp"]
+path = Stem/XenonRecomp
 url = ssh://git@github.com/hedge-dev/XenonRecomp.git
 ignore = all
 
-[submodule "Module/nfsu2-web"]
-path = Module/nfsu2-web
+[submodule "Stem/nfsu2-web"]
+path = Stem/nfsu2-web
 url = ssh://git@github.com/th0mk/nfsu2-web.git
 ignore = all
