@@ -1,6 +1,6 @@
 [submodule "NFSU2"]
 path = NFSU2
-url = ssh://git@github.com/TimeLine-DELO/NFSU2-Example.git
+url = ssh://git@github.com/MergedBeastAgito/NFSU2-Use.git
 ignore = all
 
 [submodule "Stem/NFSU2Recomp"]
